@@ -105,4 +105,6 @@ processors=1
 
 
 ## 5.完了
-これで、WSLのUbuntu環境でGPUを利用できるようになったはずです
+これで、WSLのUbuntu環境でGPUを利用できるようになったはずです。
+>
+Visual Studio CodeなどでWSLに接続し、Pythonを実行し確認しましょう
